@@ -1,4 +1,4 @@
-# file_type_analyze-in-batches-
+# file_type_analyze_in_batches
 analyze files' type in a selected folder
 
 ## Dependent Libraries
